@@ -1,4 +1,4 @@
-## Credits:
+Credits:
 
 	- Demo Images:
 		Unsplash (unsplash.com)
