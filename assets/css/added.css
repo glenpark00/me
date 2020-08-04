@@ -41,5 +41,36 @@
 
 .screenshot {
   width: 560px;
-  margin-bottom: 20px;
+}
+
+.screenshot-filter {
+  display: flex;
+  margin-bottom: 30px;
+  width: 560px;
+  height: fit-content;
+  background-color: transparent;
+  position: relative;
+  cursor: pointer;
+}
+
+.screenshot-filter:hover {
+  background-color: black;
+  opacity: 0.6;
+  transition: 0.3s;
+}
+
+
+.fa-external-link-alt {
+  position: absolute;
+  font-size: 50px;
+  top: 39%;
+  left: 45%;
+  display: none;
+  color: rgb(0, 0, 0);
+}
+
+.screenshot-filter:hover > .fa-external-link-alt {
+  display: inline-block;
+  z-index: 5;
+  transition: 0.3s;
 }
