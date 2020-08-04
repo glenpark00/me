@@ -1,4 +1,4 @@
-## Credits:
+## Credits
 
 - Template:
 	- [HTML5UP](https://html5up.net/)
