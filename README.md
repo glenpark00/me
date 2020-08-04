@@ -1,11 +1,16 @@
-Credits:
+## Credits:
 
-	- Demo Images:
-		Unsplash (unsplash.com)
+- Template:
+	- [HTML5UP](https://html5up.net/)
 
-	- Icons:
-		Font Awesome (fontawesome.io)
+- Demo Images:
+	- [Unsplash](unsplash.com)
 
-	- Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+- Icons:
+ 	- [Font Awesome](fontawesome.io)
+	- [DevIcon](https://devicons.github.io/devicon/)
+
+- Other:
+	- [jQuery](jquery.com)
+	- [Responsive Tools](github.com/ajlkn/responsive-tools)
+	
