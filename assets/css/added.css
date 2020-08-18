@@ -75,14 +75,10 @@
   transition: 0.3s;
 }
 
-#projects h3 {
+.projects-header {
   margin-bottom: 5px;
 }
 
-#projects p {
+.projects-desc {
   margin-top: 10px;
 }
-
-/* a {
-  cursor: pointer;
-} */
